@@ -37,3 +37,5 @@ DESCRIPTION
           with your exit conditions. Too many levels of recursion can exhaust the
           script'\''s stack space, causing a segfault ;p
 ```
+
+Example config file: https://github.com/rwblokzijl/i3/blob/master/i3_gen/i3.config/config.template
