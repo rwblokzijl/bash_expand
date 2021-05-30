@@ -6,9 +6,11 @@ if [[ $1 == "-h" || $1 == "--help" ]]; then
     echo \
 'NAME
         bash_expand - a preprocessor for config files
+
 SYNOPSIS
         bash_expand [OPTION]... [input-file]...
         for full details on the input options see `man perl`
+
 COMMON USAGE
         Basic input output:
             - bash_expand [input-file] > [output-file]
@@ -16,6 +18,7 @@ COMMON USAGE
             - cat [input-file] | bash_expand > [output-file]
         Edit inplace
             - bash_expand -i [input-file]
+
 DESCRIPTION
         bash_expand is a preprocessor for config files that allows the use of
         INLINE BASH COMMANDS in normal config files. It effectively is a turing
