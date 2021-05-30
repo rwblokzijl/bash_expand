@@ -40,6 +40,9 @@ DESCRIPTION
           script'\''s stack space, causing a segfault ;p
 ```
 
-Example config file: https://github.com/rwblokzijl/i3/blob/master/i3_gen/i3.config/
+- Example config files: https://github.com/rwblokzijl/i3/blob/master/i3_gen/i3.config/
+        - https://github.com/rwblokzijl/i3/blob/a4845668619f508ae118b89100a43cab8c346106/i3_gen/i3.config/machine_specific/wessel.huntandhackett.com#L37
+        - https://github.com/rwblokzijl/i3/blob/a4845668619f508ae118b89100a43cab8c346106/i3_gen/i3.config/machine_specific/wessel.huntandhackett.com#L96
+        - https://github.com/rwblokzijl/i3/blob/a4845668619f508ae118b89100a43cab8c346106/i3_gen/i3.config/config.template#L250
 
-Example usage: https://github.com/rwblokzijl/i3/blob/27c1081440cb5f4e1ffd1cea56bf6a1cfc8b620e/i3_gen/generate.sh#L42
+Example usage: https://github.com/rwblokzijl/i3/blob/a4845668619f508ae118b89100a43cab8c346106/i3_gen/generate.sh#L45
