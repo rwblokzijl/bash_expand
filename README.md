@@ -41,4 +41,5 @@ DESCRIPTION
 ```
 
 Example config file: https://github.com/rwblokzijl/i3/blob/master/i3_gen/i3.config/
+
 Example usage: https://github.com/rwblokzijl/i3/blob/27c1081440cb5f4e1ffd1cea56bf6a1cfc8b620e/i3_gen/generate.sh#L42
