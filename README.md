@@ -37,5 +37,7 @@ DESCRIPTION
         3. take every line that look like "; import <file>" and replace it with this
           script applied to that file. This also allows for recursion, so BE CAREFUL
           with your exit conditions. Too many levels of recursion can exhaust the
-          script'\''s stack space, causing a segfault ;p' && exit
+          script'\''s stack space, causing a segfault ;p
 ```
+
+Example config file: https://github.com/rwblokzijl/i3/blob/master/i3_gen/i3.config/config.template
