@@ -45,4 +45,4 @@ DESCRIPTION
     - [Control flow](https://github.com/rwblokzijl/i3/blob/a4845668619f508ae118b89100a43cab8c346106/i3_gen/i3.config/machine_specific/wessel.huntandhackett.com#L96)
     - [Import](https://github.com/rwblokzijl/i3/blob/a4845668619f508ae118b89100a43cab8c346106/i3_gen/i3.config/config.template#L250)
 
-Example usage: https://github.com/rwblokzijl/i3/blob/a4845668619f508ae118b89100a43cab8c346106/i3_gen/generate.sh#L45
+- Example usage: https://github.com/rwblokzijl/i3/blob/a4845668619f508ae118b89100a43cab8c346106/i3_gen/generate.sh#L45
